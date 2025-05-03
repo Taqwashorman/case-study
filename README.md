@@ -1,6 +1,6 @@
 # case-study
 
-## Best 3 project:
+## Best 3 project: 
  
 ### First project: ML project with streamlit
 https://github.com/Taqwashorman/Medical-Project-Diabetes_Streamlit_App
